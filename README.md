@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shahan-syed. I am pursuing a PhD in immunology from University of Helsinki.
+- 🌱 I’m currently learning coding with CS50 with focus on python coding and AI
+- 👀 I’m interested in software developement oppertunities and data science
+- 📫 you can reach me shahan-syed@helsinki.fi
